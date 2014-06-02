@@ -1,0 +1,19 @@
+{
+  "name": "pizza.js",
+  "version": "0.1.0",
+  "description": "A nodejs API for ordering pizza",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JFKingsley/pizza.js.git"
+  },
+  "author": "Jonathan Kingsley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFKingsley/pizza.js/issues"
+  },
+  "homepage": "https://github.com/JFKingsley/pizza.js"
+}
